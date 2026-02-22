@@ -1,21 +1,16 @@
-# 📘 Interactive JavaScript Book
+# Interactive JavaScript Book
 
 > An interactive single-file HTML JavaScript book — built from personal Notion notes — covering 27 topics from basics to advanced, with a live code editor, quizzes, and progress tracking.
 
-![HTML](https://img.shields.io/badge/HTML-Single%20File-orange?style=flat-square&logo=html5)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript)
-![No Setup](https://img.shields.io/badge/Setup-None%20Required-brightgreen?style=flat-square)
-![Offline](https://img.shields.io/badge/Works-Offline-blue?style=flat-square)
-
 ---
 
-## 🚀 Demo
+## Demo
 
 Just download and open `js_interactive_book.html` in any browser. No server, no install, no internet required.
 
 ---
 
-## ✨ Features
+## Features
 
 - 🖊️ **Live code editor** — edit and run JavaScript directly in the browser on every topic
 - 🧠 **Quizzes** — instant correct/wrong feedback to test your understanding
@@ -27,9 +22,9 @@ Just download and open `js_interactive_book.html` in any browser. No server, no 
 
 ---
 
-## 📚 Contents
+## Contents
 
-### 🟢 Basics
+### Basics
 | # | Topic |
 |---|-------|
 | 1 | Introduction & Console |
@@ -44,7 +39,7 @@ Just download and open `js_interactive_book.html` in any browser. No server, no 
 | 10 | Objects (methods, getters/setters, this) |
 | 11 | Classes & Inheritance |
 
-### 🟡 Intermediate
+### Intermediate
 | # | Topic |
 |---|-------|
 | 12 | Promises |
@@ -53,7 +48,7 @@ Just download and open `js_interactive_book.html` in any browser. No server, no 
 | 15 | Errors & Debugging |
 | 16 | Modules (CommonJS & ES6) |
 
-### 🔴 Advanced
+### Advanced
 | # | Topic |
 |---|-------|
 | 17 | Destructuring (array & object) |
@@ -70,7 +65,7 @@ Just download and open `js_interactive_book.html` in any browser. No server, no 
 
 ---
 
-## 🛠️ Usage
+## Usage
 
 1. **Download** `js_interactive_book.html`
 2. **Open** it in any modern browser (Chrome, Firefox, Edge, Safari)
@@ -81,7 +76,7 @@ No Node.js, no npm, no build step. Just one file.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 js_interactive_book.html   ← Everything in one file
@@ -90,7 +85,7 @@ README.md
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The entire book is a self-contained HTML file with:
 
@@ -102,13 +97,13 @@ Code in the editor runs inside a sandboxed `new Function()` scope so it cannot a
 
 ---
 
-## 📖 Source
+## Source
 
 This book was generated from personal **Notion notes** on JavaScript, covering both fundamentals (`JavaScript.pdf`) and advanced topics (`Advanced_JS.pdf`).
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork and add:
 - More topics (e.g. TypeScript, Web APIs, Node.js)
@@ -117,6 +112,6 @@ Feel free to fork and add:
 
 ---
 
-## 📄 License
+## License
 
 MIT — free to use, share, and modify.
