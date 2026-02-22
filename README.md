@@ -12,13 +12,13 @@ Just download and open `js_interactive_book.html` in any browser. No server, no 
 
 ## Features
 
-- 🖊️ **Live code editor** — edit and run JavaScript directly in the browser on every topic
-- 🧠 **Quizzes** — instant correct/wrong feedback to test your understanding
-- 📊 **Progress tracker** — sidebar fills up as you complete each section
-- 🌳 **Live DOM & Event demos** — interact with real elements, no code needed
-- ⬅️➡️ **Previous / Next navigation** — move through topics in order
-- 🌙 **Dark theme** — easy on the eyes during long study sessions
-- 📦 **Zero dependencies** — pure HTML, CSS, and JavaScript, one file
+- **Live code editor** — edit and run JavaScript directly in the browser on every topic
+- **Quizzes** — instant correct/wrong feedback to test your understanding
+- **Progress tracker** — sidebar fills up as you complete each section
+- **Live DOM & Event demos** — interact with real elements, no code needed
+- **Previous / Next navigation** — move through topics in order
+- **Dark theme** — easy on the eyes during long study sessions
+- **Zero dependencies** — pure HTML, CSS, and JavaScript, one file
 
 ---
 
